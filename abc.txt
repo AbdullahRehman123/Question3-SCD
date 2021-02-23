@@ -14,8 +14,9 @@ public class Question3 {
     s1=s2;
     s2=s3;
     // till now Version 1
-    
-    
+    // Verion 2 starts
+    System.out.println(s1);
+    System.out.println(s2);
     }
     
 }
